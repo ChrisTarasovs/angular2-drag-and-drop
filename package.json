@@ -24,6 +24,7 @@
     "@angular/platform-browser-dynamic": "2.4.8",
     "@angular/router": "3.4.8",
     "core-js": "^2.4.1",
+    "ng2-dnd": "^2.2.2",
     "rxjs": "^5.1.0",
     "zone.js": "^0.7.6"
   },
@@ -51,7 +52,7 @@
     "karma-jasmine-html-reporter": "^0.2.2",
     "protractor": "~5.1.0",
     "ts-node": "~2.0.0",
-     "loader-utils": "~0.2.16",
+    "loader-utils": "~0.2.16",
     "reflect-metadata": "0.1.8",
     "rxjs": "^5.0.3",
     "semantic-release": "4.3.5",

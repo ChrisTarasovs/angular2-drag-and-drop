@@ -3,7 +3,9 @@ import { NgModule } from '@angular/core';
 import { FormsModule } from '@angular/forms';
 import { HttpModule } from '@angular/http';
 
-import {DndModule} from './ng2-dnd';
+import {DndModule} from 'ng2-dnd';
+
+import { AppComponent } from './app.component';
 
 //import { DndComponent } from './dnd/dnd.component';
 
